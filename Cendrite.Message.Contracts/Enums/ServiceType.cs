@@ -2,9 +2,8 @@
 
 public enum ServiceType
 {
-    AuthenticationService,
-    UserManagementService,
-    EmailService,
-    ChatServer,
-    Keystore
+    AuthenticationService = 0,
+    UserManagementService = 1,
+    ChatServer = 3,
+    Keystore = 4
 }
