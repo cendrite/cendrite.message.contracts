@@ -9,5 +9,4 @@ public sealed record UserDeletedMessage : IBaseMessage
     public required Guid CorrelationId { get; init; }
     public Guid? CausationId { get; init; }  = null;
     public required Guid UserId { get; init; }
-    public required string Email { get; init; }
 }

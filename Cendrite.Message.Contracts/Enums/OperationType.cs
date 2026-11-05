@@ -2,6 +2,5 @@
 
 public enum OperationType
 {
-    UserProfileDelete,
-    SendEmail,
+    UserProfileDelete = 0,
 }
