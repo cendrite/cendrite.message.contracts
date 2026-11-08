@@ -12,5 +12,4 @@ public sealed class DeviceAddedMessage : IBaseMessage
     public required Guid DeviceId { get; init; }
     public required Guid ConnectionId { get; init; }
     public required string DevicePlatform { get; init; }
-    public bool Recovered { get; init; }
 }
