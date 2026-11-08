@@ -10,4 +10,5 @@ public sealed class CreateUserProfileMessage : IBaseMessage
     public Guid? CausationId { get; init; } = null;
     public required Guid UserId { get; init; }
     public required string Username { get; init; }
+    public required string UserTag { get; init; }
 }
