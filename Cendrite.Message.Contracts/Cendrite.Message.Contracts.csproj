@@ -5,9 +5,9 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <Authors>KJBF</Authors>
-        <Version>5.5.0</Version>
-        <AssemblyVersion>5.5.0</AssemblyVersion>
-        <FileVersion>5.5.0</FileVersion>
+        <Version>5.6.0</Version>
+        <AssemblyVersion>5.6.0</AssemblyVersion>
+        <FileVersion>5.6.0</FileVersion>
         <Title>Cendrite.Message.Contracts</Title>
         <PackageDescription>Message Contracts for RabbitMQ/MassTransit</PackageDescription>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
